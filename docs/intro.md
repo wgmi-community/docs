@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome to the WGMI DAO Docs
+# Welcome to the WGMI Docs
 
 WGMI is on a mission to bring more community professionals to Web3. 
 
