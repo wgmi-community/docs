@@ -57,18 +57,18 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '',
         logo: {
           href: 'https://wgmi.community',
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/pic.png',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Home',
           },
           {
             href: 'https://github.com/facebook/docusaurus',
