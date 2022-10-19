@@ -713,7 +713,7 @@ The DAOhaus platform helps us manage stakeholders within our DAO (i.e., Members)
 
 When a Member owns Shares, they have an economic share of the funds in the DAO's Bank and voting rights in the DAO's Proposals.
 
-When a Member owns only Loot, they only have an economic share of the funds in the DAO's Bank but not voting rights in the DAO's Proposals. This enables the DAO to raise a $ treasury without diluting voting power to external supporters or financiers.
+When a Member owns only Loot, they only have an economic share of the funds in the DAO's Bank but no voting rights in the DAO's Proposals. This enables the DAO to raise a $ treasury without diluting voting power to external supporters or financiers.
 
 Non-members can join the DAO by requesting Shares / Loot via a Membership Proposal. Members can leave the DAO through a RageQuit proposal, thereby withdrawing their pro-rated ownership of the Bank's funds.
 
@@ -878,7 +878,7 @@ This opens up possibilities for DAOs to access any smart contracts out there, fr
 ### Minion Types
 #### Basic Minion
 
-Want a simple way to execute smart contract calls automatically based on the outcome of your proposals? Also known as a vanilla minion, it is a basic upgrade to your DAO proposals, enabling one-time interactions with other smart contracts once your proposals are passed. This way, you can upgrade your DAO experience by seamlessly go from voting to execution without any coordination lags.
+Want a simple way to execute smart contract calls automatically based on the outcome of your proposals? Also known as a vanilla minion, it is a basic upgrade to your DAO proposals, enabling one-time interactions with other smart contracts once your proposals are passed. This way, you can upgrade your DAO experience by seamlessly going from voting to execution without any coordination lags.
 
 #### Advanced Minion
 The Advanced Minion is similar to the Basic Minion but has the added ability to set quorum levels so that transactions can be executed earlier once quorum requirements are met, also known as a Nifty Minion.
@@ -1016,7 +1016,7 @@ The default Proposal Type shown will be the "Favorites" proposals. If you cannot
 
 - **+REQUEST SHARES:** Voting shares in the DAO. If it is a funding proposal, Members can request payment be made in shares up to x% of the total amount requested.
 
-- **+REQUEST LOOT:** Non-voting shares in the DAO. This means you will have shares which can be raqequit but do not hold voting rights. Loot shares cost the same as regular shares.
+- **+REQUEST LOOT:** Non-voting shares in the DAO. This means you will have shares which can be ragequit but do not hold voting rights. Loot shares cost the same as regular shares.
 
 - **GIVE TRIBUTE:** The amount of capital you are committing to deposit to the DAO bank. (Tribute is relevant to Membership and Funding Proposals).
 
@@ -1345,7 +1345,7 @@ Please follow all steps outlined under the **Sunset** phase section of [WGMI's D
 
 ---
 # How we operate
-Second to this Guidebook, Notion is WGMI's powerhouse, particularly because we are an asyncronous organization. General WGMI and Community resources are housed in Notion, as well as internal project and task tracking and management. See [WGMI Notion 101 Guide](https://app.tango.us/app/workflow/Season-1-2-Notion-Overview-2cc3c4d57a004151b0c6ac8332b1500d)   
+Second to this Guidebook, Notion is WGMI's powerhouse, particularly because we are an asynchronous organization. General WGMI and Community resources are housed in Notion, as well as internal project and task tracking and management. See [WGMI Notion 101 Guide](https://app.tango.us/app/workflow/Season-1-2-Notion-Overview-2cc3c4d57a004151b0c6ac8332b1500d)   
 - DAO daily tasks will be posted in Notion, dework, or at the guild or project level
 - The DAO will generally operate with Seasons 
     - Cohorts may be within Seasons
